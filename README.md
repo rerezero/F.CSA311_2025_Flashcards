@@ -1,2 +1,12 @@
-# F.CSA311_2025_Flashcards
-2025 оны  ПХ бүтгээлт хичээлийн бие даалт
+# Flashcards CLI
+
+Энгийн flashcard систем (CLI)  
+**Java 11**, **Maven**, **Commons-CLI**
+
+## ашиглах
+
+1. Репо clone & build:
+   ```bash
+   git clone https://github.com/таны-username/f.csa311.flashcards.git
+   cd f.csa311.flashcards
+   mvn clean package

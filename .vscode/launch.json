@@ -1,0 +1,15 @@
+// .vscode/launch.json
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch Flashcards",
+        "request": "launch",
+        "mainClass": "com.flashcards.Main",
+        "projectName": "flashcards-cli",         // VS Code-д харагдаж буй төслийн нэр
+        "args": "cards.txt --order random --repetitions 1"
+      }
+    ]
+  }
+  
